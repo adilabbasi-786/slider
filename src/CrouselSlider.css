@@ -1,0 +1,25 @@
+.maininvest {
+  display: flex;
+  gap: 200px;
+  margin-bottom: 150px;
+}
+.pic {
+  width: 100vw;
+}
+
+.maininvest p {
+  color: #f1c607bb;
+  font-size: 25px;
+  font-weight: bold;
+}
+.subtitle {
+  display: flex;
+  gap: 50px;
+  margin-left: 20%;
+}
+.revenue {
+  margin-bottom: 150px;
+}
+.revenue h4 {
+  margin-top: 100px;
+}
